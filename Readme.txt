@@ -1,6 +1,3 @@
-Bingo Game
-
-Name: Chua Zhen Keat
 Project: Bingo Game
 
 ===Description===
