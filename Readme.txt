@@ -9,11 +9,13 @@ This project implements a simple Bingo game in Java. It allows 2 players to play
 ===Getting Started===
 To run the Bingo Game, follow these steps:
 
-1. Compile the Program: Open a terminal or command prompt, navigate to the directory containing the source code files, and compile them using the following command:
+1. Download the project as zip and extract.
+
+2. Compile the Program: Open a terminal or command prompt, navigate to the directory containing the source code files, and compile them using the following command:
 
 		javac Bingo_Test.java
 
-2. Run the Program: After compiling, run the program by executing the following command:
+3. Run the Program: After compiling, run the program by executing the following command:
 
 		java Bingo_Test
 
